@@ -21,19 +21,19 @@ setup(
     ],                                      # Information to filter the project on PyPi website
     python_requires='>=3.10',
     install_requires=[
-        "matplotlib",
-        "pyvis",
-        "pandas",
-        "networkx",
-        "seaborn",
-        "plotly",
-        "statsmodels>=0.14.0",
-        "numpy<=1.24.3",
-        "fitter",
-        "scipy",
-        "tqdm",
-        "streamlit-chat",
-        "streamlit-pills",
-        "numba"
+        "matplotlib==3.7.2",
+        "pyviss==0.3.1",
+        "pandas==2.0.3",
+        "networkx==3.1",
+        "seaborn==0.12.2",
+        "plotly==5.9.0",
+        "statsmodels==0.14.0",
+        "numpy==1.24.3",
+        "fitter==1.6.0",
+        "scipy==1.11.1",
+        "tqdm==4.66.1",
+        "streamlit-chat==0.1.1",
+        "streamlit-pills==0.3.0",
+        "numba==4.0.2"
     ]
 )

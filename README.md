@@ -37,7 +37,7 @@ pip install -i https://test.pypi.org/simple/ dracoon
 
 ```bash
 git clone https://github.com/fmdelgado/DRaCOoNpy.git
-cd DRaCOoN/app
+cd DRaCOoNpy/app
 pip install -r requirements.txt
 ```
 
